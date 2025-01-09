@@ -44,10 +44,10 @@
   </a>
 </p>
 
-## Proyectos básicos
+## Basic projects
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 <h3 align="center">Crud en Python</h3>
 <div align="center">
 <p>
