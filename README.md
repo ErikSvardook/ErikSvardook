@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img align="left" src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
 ## I'm a Computer Science and Engineering Student  
