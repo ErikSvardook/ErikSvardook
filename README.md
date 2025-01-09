@@ -50,7 +50,7 @@
 <td width="50%">
 <h3 align="center">Crud en Python</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"></a>
+<a href="https://github.com/ErikSvardook/crud_python.git" target="_blank"></a>
 <p>
 <a align="center" href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
