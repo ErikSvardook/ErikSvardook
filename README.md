@@ -60,9 +60,10 @@
 </a>
 </p>
 <p>Programa básico para poder agregar, actualizar, eliminar y ver usuarios. El programa es adaptable.</p>
-</div>
-                                                                                      
+</div>                                                                                   
 </td>
+</table>                                                                                 
+<br>
 
 ### ⚙️ GitHub Analytics
 
