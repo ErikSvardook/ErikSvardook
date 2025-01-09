@@ -45,9 +45,10 @@
 </p>
 
 ## Basic projects
+<div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 <h3 align="center">Crud en Python</h3>
 <div align="center">
 <p>
@@ -58,7 +59,8 @@
 <p>Programa básico para poder agregar, actualizar, eliminar y ver usuarios. El programa es adaptable.</p>
 </div>                                                                                   
 </td>
-</table>                                                                                 
+</table>
+</div>
 <br>
 
 ### ⚙️ GitHub Analytics
