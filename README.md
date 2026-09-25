@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Erik Jarquín Sánchez</h1>
+<h1 align="center">Hola, soy Erik Jarquín Sánchez</h1>
 
 
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
-## I'm a Computer Science
+## Desarrollador full stack
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Python, etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and chess 🎱.
+- Actualmente trabajo con tecnologías de desarrollo web como Java (Spring Boot) para backend, Angular y Next.js para frontend.
+- Para la persistencia de datos utilizo PostgreSQL y SupaBase.
+- Para DEVOPS utilizo herramientas como son Git, GitHub, Docker y Postman.
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Lenguajes y herramientas:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -44,7 +43,7 @@
   </a>
 </p>
 
-## Basic projects
+## Proyectos
 <div align="center">
 <table>
 <tr>
@@ -63,7 +62,7 @@
 </div>
 <br>
 
-### ⚙️ GitHub Analytics
+### Análisis de GitHub
 
 <p align="center">
 <a href="https://github.com/ErikSavardook">
