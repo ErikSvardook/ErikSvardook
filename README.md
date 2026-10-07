@@ -59,16 +59,16 @@ Aplicación para gestionar ventas construida con una arquitectura MVC con Spring
 
 Se esta implementando un frontend con Next.js para compras en línea enfocado al cliente, mientras que el frontend con Angular es para la administración de la tienda. Se usará el mismo backend con Spring Boot y la misma base de datos en Supabase para ambos frontends, habrá diferentes rutas apuntando a cada uno.
 <p align="center">
-  <a href="https://github.com/Erik-Bot23/Compras_Backend.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Compras-Backend.git" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
-  <a href="https://github.com/Erik-Bot23/Compras_Frontend-Angular.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Compras-Frontend-local.git" target="_blank">
     <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
   </a>
-  <a href="https://github.com/Erik-Bot23/Compras_Frontend-Next.js.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Compras-Frontend-cliente.git" target="_blank">
     <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
   </a>
-  <a href="https://github.com/Erik-Bot23/Compras_Docker.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Compras-Docker.git" target="_blank">
     <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
@@ -78,7 +78,7 @@ Se esta implementando un frontend con Next.js para compras en línea enfocado al
 <h2>Página de novios</h2>
 Página web personal dedicada a mi novia hecha con JavaScript, HTML y CSS puro. Incluye animaciones, detalles interactivos y diseño responsive. Me sirvió para practicar manipulación del DOM, animaciones con CSS y buenas prácticas de diseño web.
 <p align="center">
-  <a href="https://github.com/Erik-Bot23/Pagina-de-novios.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Pagina-de-novios.git" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
 </p>
@@ -88,7 +88,7 @@ Página web personal dedicada a mi novia hecha con JavaScript, HTML y CSS puro. 
 <h2>CRUD en Python</h2>
 Pequeño proyecto en Python para agendar contactos y eventos, con almacenamiento en una base de datos PostgreSQL. Incluye funcionalidades de agregar, editar, eliminar y listar contactos y eventos. Me ayudó a mejorar mis habilidades en Python y SQL.
 <p align="center">
-  <a href="https://github.com/Erik-Bot23/Agenda-de-contactos.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Agenda-Contactos.git" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
 </p>
@@ -98,16 +98,16 @@ Pequeño proyecto en Python para agendar contactos y eventos, con almacenamiento
 <h2>Proyecto de compras orientado a una tienda</h2>
 API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)Esta aplicación esta en proceso, se usará para gestionar ventas enfocadas a un establecimiento de comida y tomará como base el proyecto de ventas para tienda, el cual se refactorizará para adaptarse a las necesidades de un restaurante; tanto el backend con Spring Boot como el frontend con Angular. Y se implementará un frontend con Next.js para compras en línea enfocado al cliente. mientras que el frontend con Angular seguirá siendo para la administración, en esta caso del restaurante.
 <p align="center">
-  <a href="https://github.com/Erik-Bot23/Ventas_Backend.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Ventas-Backend.git" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
-  <a href="https://github.com/Erik-Bot23/Ventas_Frontend.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Ventas-Frontend-local.git" target="_blank">
     <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
   </a>
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+  <a href="https://github.com/ErikSvardook/Ventas-Frontend-cliente.git" target="_blank">
     <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
   </a>
-  <a href="https://github.com/Erik-Bot23/Ventas_Docker.git" target="_blank">
+  <a href="https://github.com/ErikSvardook/Ventas-Docker.git" target="_blank">
     <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
