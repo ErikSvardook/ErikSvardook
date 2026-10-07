@@ -1,4 +1,20 @@
->
+<h1 align="center">Hola, soy Erik Jarquín Sánchez</h1>
+
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
+</p>
+
+<p align="center">
+  <a href="https://TU_PORTAFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+  </a>
+  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:TU_CORREO@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/Sobre_mí-FF5722?style=for-the-badge&logo=pinia&logoColor=white" alt="Sobre mí" />
