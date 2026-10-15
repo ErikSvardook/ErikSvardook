@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://portafolioweberik.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" target="_blank"/>
   </a>
   <a href="https://linkedin.com/in/erik-jarquín-sánchez-922726284" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
   </a>
   <a href="https://mailto:erikjarquin20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank"/>
   </a>
 </p>
 
@@ -58,13 +58,13 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
 Sistema completo de punto de venta para una tienda de despensa: caja, cobro, inventario, proveedores, compras y reportes. Lo construí de punta a punta: backend hecho con Spring Boot con 12 controladores y 73 endpoints REST y autencicación con JWT ; SPA en Angular para todo el diseño del frontend. PostgreSQL con 7 migraciones versionadas por flyway. Y se hicieron 301 pruebas automatizadas.
 <p align="center">
   <a href="https://github.com/ErikSvardook/Compras-Backend.git" target="_blank">
-    <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot" target="_blank"/>
   </a>
   <a href="https://github.com/ErikSvardook/Compras-Frontend-local.git" target="_blank">
-    <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular" target="_blank"/>
   </a>
   <a href="https://github.com/ErikSvardook/Compras-Docker.git" target="_blank">
-    <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker" target="_blank"/>
   </a>
 </p>
 
@@ -74,7 +74,7 @@ Sistema completo de punto de venta para una tienda de despensa: caja, cobro, inv
 Página web personal con animaciones, detalles interactivos y diseño responsive, hecho con JavaScript, HTML y CSS puro. Me sirvió para practicar manipulación del DOM, animaciones con CSS y buenas prácticas de diseño web sin un framework.
 <p align="center">
   <a href="https://github.com/ErikSvardook/Pagina-de-novios.git" target="_blank">
-    <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+    <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" target="_blank"/>
   </a>
 </p>
 
@@ -84,7 +84,7 @@ Página web personal con animaciones, detalles interactivos y diseño responsive
 Proyecto en Python para administrar contactos y eventos, con almacenamiento en una base de datos PostgreSQL. Incluye funcionalidades de agregar, editar, eliminar y listar contactos y eventos. Me ayudó a mejorar mis habilidades en Python y SQL, modelando datos fuera de un framework.
 <p align="center">
   <a href="https://github.com/ErikSvardook/Agenda-Contactos.git" target="_blank">
-    <img src="https://img.shields.io/badge/PYTHON-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+    <img src="https://img.shields.io/badge/PYTHON-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" target="_blank"/>
   </a>
 </p>
 
@@ -107,7 +107,7 @@ Proyecto en Python para administrar contactos y eventos, con almacenamiento en u
 
 <p align="center">
   <a href="https://mailto:erikjarquin20@gmail.com">
-    <img src="https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank"/>
   </a>
 </p>
 
