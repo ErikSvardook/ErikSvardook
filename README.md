@@ -54,19 +54,14 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
   <img src="https://img.shields.io/badge/Proyectos_Destacados-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos destacados" />
 </h2>
 
-<h2>Proyecto de compras orientado a un establecimiento de comida</h2>
-Aplicación para gestionar ventas construida con una arquitectura MVC con Spring Boot en el backend, una SPA en Angular como cliente para la administración de la tienda y PostgreSQL como base de datos alojada en Supabase. Implementé autenticación, CRUD y comunicación entre servicios por HTTP.
-
-Se esta implementando un frontend con Next.js para compras en línea enfocado al cliente, mientras que el frontend con Angular es para la administración de la tienda. Se usará el mismo backend con Spring Boot y la misma base de datos en Supabase para ambos frontends, habrá diferentes rutas apuntando a cada uno.
+<h2>ERP de ventas para tiendas (POS)</h2>
+Sistema completo de punto de venta para una tienda de despensa: caja, cobro, inventario, proveedores, compras y reportes. Lo construí de punta a punta: backend hecho con Spring Boot con 12 controladores y 73 endpoints REST y autencicación con JWT ; SPA en Angular para todo el diseño del frontend. PostgreSQL con 7 migraciones versionadas por flyway. Y se hicieron 301 pruebas automatizadas.
 <p align="center">
   <a href="https://github.com/ErikSvardook/Compras-Backend.git" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
   <a href="https://github.com/ErikSvardook/Compras-Frontend-local.git" target="_blank">
     <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
-  </a>
-  <a href="https://github.com/ErikSvardook/Compras-Frontend-cliente.git" target="_blank">
-    <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
   </a>
   <a href="https://github.com/ErikSvardook/Compras-Docker.git" target="_blank">
     <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
@@ -75,8 +70,8 @@ Se esta implementando un frontend con Next.js para compras en línea enfocado al
 
 ---
 
-<h2>Página de novios</h2>
-Página web personal dedicada a mi novia hecha con JavaScript, HTML y CSS puro. Incluye animaciones, detalles interactivos y diseño responsive. Me sirvió para practicar manipulación del DOM, animaciones con CSS y buenas prácticas de diseño web.
+<h2>Página Web personal</h2>
+Página web personal con animaciones, detalles interactivos y diseño responsive, hecho con JavaScript, HTML y CSS puro. Me sirvió para practicar manipulación del DOM, animaciones con CSS y buenas prácticas de diseño web sin un framework.
 <p align="center">
   <a href="https://github.com/ErikSvardook/Pagina-de-novios.git" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
@@ -86,29 +81,10 @@ Página web personal dedicada a mi novia hecha con JavaScript, HTML y CSS puro. 
 ---
 
 <h2>CRUD en Python</h2>
-Pequeño proyecto en Python para agendar contactos y eventos, con almacenamiento en una base de datos PostgreSQL. Incluye funcionalidades de agregar, editar, eliminar y listar contactos y eventos. Me ayudó a mejorar mis habilidades en Python y SQL.
+Proyecto en Python para administrar contactos y eventos, con almacenamiento en una base de datos PostgreSQL. Incluye funcionalidades de agregar, editar, eliminar y listar contactos y eventos. Me ayudó a mejorar mis habilidades en Python y SQL, modelando datos fuera de un framework.
 <p align="center">
   <a href="https://github.com/ErikSvardook/Agenda-Contactos.git" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
-  </a>
-</p>
-
----
-
-<h2>Proyecto de compras orientado a una tienda</h2>
-API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)Esta aplicación esta en proceso, se usará para gestionar ventas enfocadas a un establecimiento de comida y tomará como base el proyecto de ventas para tienda, el cual se refactorizará para adaptarse a las necesidades de un restaurante; tanto el backend con Spring Boot como el frontend con Angular. Y se implementará un frontend con Next.js para compras en línea enfocado al cliente. mientras que el frontend con Angular seguirá siendo para la administración, en esta caso del restaurante.
-<p align="center">
-  <a href="https://github.com/ErikSvardook/Ventas-Backend.git" target="_blank">
-    <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
-  </a>
-  <a href="https://github.com/ErikSvardook/Ventas-Frontend-local.git" target="_blank">
-    <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
-  </a>
-  <a href="https://github.com/ErikSvardook/Ventas-Frontend-cliente.git" target="_blank">
-    <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
-  </a>
-  <a href="https://github.com/ErikSvardook/Ventas-Docker.git" target="_blank">
-    <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
 
@@ -130,7 +106,7 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
 </p>
 
 <p align="center">
-  <a href="mailto:erikjarquin20@gmail.com">
+  <a href="https://mailto:erikjarquin20@gmail.com">
     <img src="https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
