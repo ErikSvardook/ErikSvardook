@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/erik-jarquín-sánchez-922726284" target="_blank">
+  <a href="https://portafolioweberik.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/erik-jarquín-sánchez-922726284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://mailto:erikjarquin20@gmail.com">
