@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Sobre_mí-FF5722?style=for-the-badge&logo=pinia&logoColor=white" alt="Sobre mí" />
 </h2>
 
-Desarrollador **full stack** enfocado en construir productos web completos, desde la base de datos hasta la interfaz. Me gusta escribir código limpio, aprender herramientas nuevas y convertir ideas en aplicaciones funcionales.
+Desarrollador junior full stack. Construyo sistemas completos con Spring Boot, Angular y PostgreSQL, desde la autenticación y el modelo de datos hasta la interfaz. Mi proyecto principal es un punto de venta en producción con caja, inventario, compras y reportes, donde el reto no fue el CRUD sino que los números fueran ciertos: cobros idempotentes, costos congelados al momento de vender y márgenes que sirvan para decidir a quién renegociarle precio. También trabajo con TypeScript, Next.js y Python. Busco demostrar mis habilidades como junior en backend o full stack, donde pueda seguir aprendiendo y aportar desde el primer día.
 
 - Actualmente estoy trabajando con **Java (Spring Boot)** en backend, **Angular** y **Next.js** en frontend.
 - Persistencia de datos con **PostgreSQL** y **Supabase**.
